@@ -7,6 +7,6 @@ namespace Odev_1
 {
     class Bolge
     {
-        // ..... //
+        public int x, y, takım;
     }
 }

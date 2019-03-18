@@ -1,0 +1,6 @@
+C:\Users\RAMBEY\Desktop\odev-1-ramazanbeydilli-master\Odev_1\obj\Debug\Odev_1.csprojAssemblyReference.cache
+C:\Users\RAMBEY\Desktop\odev-1-ramazanbeydilli-master\Odev_1\obj\Debug\Odev_1.csproj.CoreCompileInputs.cache
+C:\Users\RAMBEY\Desktop\odev-1-ramazanbeydilli-master\Odev_1\bin\Debug\Odev_1.exe
+C:\Users\RAMBEY\Desktop\odev-1-ramazanbeydilli-master\Odev_1\bin\Debug\Odev_1.pdb
+C:\Users\RAMBEY\Desktop\odev-1-ramazanbeydilli-master\Odev_1\obj\Debug\Odev_1.exe
+C:\Users\RAMBEY\Desktop\odev-1-ramazanbeydilli-master\Odev_1\obj\Debug\Odev_1.pdb
